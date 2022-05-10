@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4uK7rsZeTccbUi8KLQYHm0yE+t0Mn5g2cyFiL8K3NaBNO/jRIeT6OvIICaIex2sKcRB378TJJQdR6SNNjXCYTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GOKTUG\\Source\\Repos\\BookStore\\BookStore.API\\BookStore.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GOKTUG\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\GOKTUG\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\GOKTUG\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\GOKTUG\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\GOKTUG\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\GOKTUG\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
